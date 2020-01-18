@@ -16,3 +16,8 @@ https://daewonyoon.tistory.com/238
 error msg : return tf.train.Feature(int64_list=tf.train.Int64List(value=value)) TypeError: None has type NoneType, but expected one of: int, long
 
 https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py#L30
+
+### tensorflow version
+training : remove tensorflow, upgrade tensorflow_gpu 1.9 -> 1.11
+
+export: tensorflow_gpu 1.15.0 

@@ -1,5 +1,8 @@
 # tensorflow
 
+### tools version setting
+https://medium.com/@maxtortime_88708/windows-10%EC%97%90%EC%84%9C-tensorflow-gpu-%EC%84%A4%EC%B9%98-5438fea6ed30
+
 ### custom version install
 https://joytk.tistory.com/7
 

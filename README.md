@@ -21,3 +21,6 @@ https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py#L30
 training : remove tensorflow, upgrade tensorflow_gpu 1.9 -> 1.11
 
 export: tensorflow_gpu 1.15.0 
+
+### tensorboard error
+tensorborad --logdir=<Absolute path>
